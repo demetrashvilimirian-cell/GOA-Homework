@@ -1,0 +1,23 @@
+#GOA{
+    color: green;
+    text-align: center;
+    width: 300px;
+    border: 2px,solid green;
+}
+#GOAL{
+    background-color: green;
+    border: 4px,solid green;
+}
+video{
+    border: 4px,solid green;
+}
+#MARTIAL{
+    border: 2px,solid red;
+    width: 500px;
+}
+#MARTIALA{
+    color: red;
+    text-align: center;
+    width: 300px;
+    border: 2px,solid red;
+}

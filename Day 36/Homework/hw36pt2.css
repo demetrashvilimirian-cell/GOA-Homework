@@ -1,0 +1,18 @@
+img{
+    width: 400;
+    border: 2px,solid black;
+}
+
+h2{
+    background-color: whitesmoke;
+    border: 2px,solid black;
+    text-align: center;
+}
+.gsp{
+    background-color: brown;
+    border: 2px,solid brown;
+}
+#panda{
+    background-color: black;
+    border: 5px,solid whitesmoke;
+}

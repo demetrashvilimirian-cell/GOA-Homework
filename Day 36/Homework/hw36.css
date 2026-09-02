@@ -1,0 +1,13 @@
+/* # 1 */
+h1{
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+
+p{
+    color: black;
+    background-color: purple;
+    text-align: end;
+}
+
