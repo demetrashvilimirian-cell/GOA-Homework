@@ -1,0 +1,34 @@
+/* # 1 */
+
+/* p რო წერია დაბლა ეგ არის Selector.*/
+p{
+    /* text-align რო მიწერია არის Property */
+    /* და center რო უწერია კიდე ეგ არის Value */
+    text-align: center;
+}
+
+/* # 2 */
+
+/* ეს კოდი ცვლის სათაურის ფერს */
+h2{
+    color: purple;
+}
+
+/* # 3 */
+
+.card-item{
+    border: 1px solid black;
+}
+
+/* # 4 */
+
+#header-box{
+    height: 100px;
+    background-color: gray;
+}
+
+/* # 5 */
+
+body{
+    font-family: Arial;
+}

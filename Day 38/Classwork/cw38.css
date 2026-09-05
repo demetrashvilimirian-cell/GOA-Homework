@@ -1,0 +1,23 @@
+#Red{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: rgb(255,0,0);
+}
+
+#Green{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: rgb(0,255,0);
+}
+
+#Blue{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: #0000FF 
+}
