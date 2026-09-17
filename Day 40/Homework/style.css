@@ -1,0 +1,11 @@
+.subtitle{
+    font-size: larger;
+}
+.btn{
+    text-transform: uppercase;
+}
+.description{
+    color: lightgreen;
+    background-color: green;
+    width: 200px;
+}

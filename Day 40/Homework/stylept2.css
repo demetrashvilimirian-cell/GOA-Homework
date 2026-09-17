@@ -1,0 +1,96 @@
+body {
+    background-color: lightgray;
+    color: darkslategray;
+    font-size: 16px;
+}
+
+#page-title {
+    background-color: navy;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+#header-title {
+    background-color: navy;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+#main-title {
+    background-color: navy;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+#header-desc {
+    background-color: white;
+    color: dimgray;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+#mercurial-info {
+    background-color: white;
+    color: dimgray;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+#shin-guards-info {
+    background-color: white;
+    color: dimgray;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+#pro-balls-info {
+    background-color: white;
+    color: dimgray;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+#nav-nike {
+    background-color: silver;
+    color: black;
+    font-size: 18px;
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+}
+
+#nav-fifa {
+    background-color: silver;
+    color: black;
+    font-size: 18px;
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+}
+
+#link-balls {
+    background-color: silver;
+    color: black;
+    font-size: 18px;
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+}
+
+#link-shoes {
+    background-color: silver;
+    color: black;
+    font-size: 18px;
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+}
+
+#footer-contact {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+}
