@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap');
+#One{
+    font-weight: 400;
+    font-family: Cedarville Cursive;
+}
+#Two{
+    font-weight: 600;
+    font-family: Cedarville Cursive;
+}
+#Three{
+    font-weight: 700;
+    font-family: Cedarville Cursive;
+}

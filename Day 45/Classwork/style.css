@@ -1,0 +1,17 @@
+ul{
+    list-style-image: url(./bolt_24dp_000000_FILL0_wght400_GRAD0_opsz24.png);
+    list-style-position: outside;
+    color: red;
+    list-style-type: bullet;
+    font-size: 20px;
+    background-color: blue;
+}
+#tr1{
+    background-color: lime;
+}
+td{
+    border: 2px solid lime;
+}
+table{
+    border-collapse: collapse;
+}
