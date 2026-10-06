@@ -1,0 +1,29 @@
+ul{
+    list-style-type: square;
+    color: blue;
+    font-size: medium;
+    list-style: square;
+}
+ol{
+    list-style: georgian;
+    color: red;
+    font-size: large;
+    list-style-type: georgian;
+}
+#table1{
+    font-size: larger;
+    background-color: black;
+    color: purple;
+}
+.th1{
+    color: purple;
+    background-color: black;
+}
+.th2{
+    background-color: blue;
+}
+#table2{
+    color: red;
+    width: 200px;
+    background-color: black;
+}

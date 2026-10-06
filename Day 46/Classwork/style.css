@@ -1,0 +1,8 @@
+#b1{
+    border-radius: 10px 10px 10px;
+}
+#b2{
+    border-radius: 5px 5px 5px;
+    color: red;
+    background-color: black;
+}
